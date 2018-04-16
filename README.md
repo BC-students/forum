@@ -1,8 +1,5 @@
 # forum
 
-NB: créez les 7 dossiers suivants:
- - back
- - front: css + font + img + js + scss 
 
 ### EN BREF POUR CE PROJET --> OBLIGATION DE :
 
