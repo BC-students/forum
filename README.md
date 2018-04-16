@@ -1,5 +1,9 @@
 # forum
 
+NB: créez les 7 dossiers suivants:
+ - back
+ - front: css + font + img + js + scss 
+
 ### EN BREF POUR CE PROJET --> OBLIGATION DE :
 
   - Fractionner avec Sass pour le Css : [doc](https://sass-lang.com/).
